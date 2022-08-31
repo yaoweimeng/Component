@@ -1,0 +1,16 @@
+PODS:
+  - Login_Section (0.1.0)
+
+DEPENDENCIES:
+  - Login_Section (from `../`)
+
+EXTERNAL SOURCES:
+  Login_Section:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Login_Section: 0b46090071c495870d1c5104511d34781b44cec3
+
+PODFILE CHECKSUM: bf7adc7ec805a65e06d4a8cd3b70c9e72cc0c8da
+
+COCOAPODS: 1.10.1

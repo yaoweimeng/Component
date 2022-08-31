@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (46)
+  - User_Section (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - User_Section (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  User_Section:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  User_Section: 2a052534f08a0621b77b34879c048cfd79c0c51b
+
+PODFILE CHECKSUM: c2363f3c159f0d225c65629762bc5470dbccd3d8
+
+COCOAPODS: 1.10.1
